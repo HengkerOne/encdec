@@ -25,7 +25,7 @@ Untuk melihat alat ini beraksi, silakan lihat tangkapan layar berikut.
 | Deskripsi | Tangkapan Layar |
 | :--- | :---: |
 | **Proses Enkripsi** | [![Proses Enkripsi](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-213922.jpg)](screenshots/encrypt_process.png) |
-| **File *Loader* yang Dihasilkan** | [![File Output Loader](screenshots/output_files.png)](screenshots/output_files.png) |
+| **File *Loader* yang Dihasilkan** | [![File Output Loader]([screenshots/output_files.png](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-215535.jpg))]([screenshots/output_files.png](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-215535.jpg)) |
 | **Pengujian *Decryption* & Eksekusi** | [![Eksekusi Loader](screenshots/loader_execution.png)](screenshots/loader_execution.png) |
 
 *Pastikan Anda telah membuat folder **`screenshots/`** di repositori Anda dan menempatkan file gambar dengan nama yang sesuai: `encrypt_process.png`, `output_files.png`, dan `loader_execution.png`.*
