@@ -25,8 +25,8 @@ Untuk melihat alat ini beraksi, silakan lihat tangkapan layar berikut.
 | Deskripsi | Tangkapan Layar |
 | :--- | :---: |
 | **Proses Enkripsi** | [![Proses Enkripsi](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-213922.jpg)](screenshots/encrypt_process.png) |
-| **File *Loader* yang Dihasilkan** | [![File Output Loader](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-215535.jpg)]([screenshots/output_files.png] |
-| **Pengujian *Decryption* & Eksekusi** | [![Eksekusi Loader](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-215535.jpg)](screenshots/loader_execution.png) |
+| **File *Loader* yang Dihasilkan** | [![File Output Loader](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-215535.jpg)] |
+| **Pengujian *Decryption* & Eksekusi** | [![Eksekusi Loader](https://raw.githubusercontent.com/HengkerOne/encdec/refs/heads/main/Screenshot_20251016-220042.jpg)] |
 
 ***
 
