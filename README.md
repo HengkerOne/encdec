@@ -54,5 +54,6 @@ Alat ini bekerja dalam beberapa langkah untuk memastikan keamanan berlapis pada 
 Clone repositori ini:
 
 ```bash
-git clone [https://github.com/HengkerOne/encdec.git](https://github.com/HengkerOne/HengkerOne/encdec.git)
+git clone https://github.com/HengkerOne/encdec.git
+https://github.com/HengkerOne/HengkerOne/encdec.git
 cd encdec
