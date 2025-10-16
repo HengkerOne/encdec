@@ -1,4 +1,4 @@
-# ENCRYPT FOR PY3🔒
+# HARD ENCRYPT FOR PY3🔒
 
 
 
